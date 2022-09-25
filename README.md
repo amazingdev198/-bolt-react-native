@@ -28,10 +28,3 @@
 # Restaurant Info Page
 
 <img src="https://github.com/kangah-codes/bolt-react-native/raw/master/assets/restaurant-info.PNG" width="281.3" height="609">
-
-### Todo
-
--   [x] Bottom Navigation Bar
--   [ ] Stack Navigation
--   [ ] More screens (Restaurant screen, Order screen, Settings screen, etc)
--   [ ] Backend?

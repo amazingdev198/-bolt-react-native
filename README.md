@@ -1,4 +1,4 @@
-# Bolt Food React Native Clone
+# Bolt Food React Native
 
 ### Source Designs
 
